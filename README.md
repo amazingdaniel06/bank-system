@@ -37,16 +37,16 @@ bank_system/
 ---
 
 ## ⚠️ Important Notes
--This project uses in-memory storage, so all data resets when the program stops
--Account names (or numbers in upgraded versions) are used to identify users
--No database or file storage is used in this version
+- This project uses in-memory storage, so all data resets when the program stops.
+- Account names (or account numbers in upgraded versions) are used to identify users.
+- No database or file storage is used in this version.
 
 ---
 
 ## 🔥 Future Improvements
--Add persistent storage using JSON or SQLite
--Add user authentication system (login/logout)
--Add transaction history storage
--Improve security with hashed PINs
--Convert CLI project into a REST API using Django/Flask
--Add unit tests for ALX submission requirement
+- Add persistent storage using JSON or SQLite.
+- Add user authentication system (login/logout).
+- Add transaction history storage.
+- Improve security with hashed PINs.
+- Convert CLI project into a REST API using Django/Flask.
+- Add unit tests for ALX submission requirements.
